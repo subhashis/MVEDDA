@@ -39,6 +39,7 @@ set(sources
     isabel_store_grid_map.cpp
     turbine_perProcessor_onePsg_recon.cpp
     turbine_perProcessor_fullAnnulus_recon.cpp
+    turbine_perProcessor_fullAnnulus_conditionalQuery.cpp
 
 )
 
