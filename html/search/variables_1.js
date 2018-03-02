@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['bfoffbits',['bfOffBits',['../structtagBITMAPFILEHEADER.html#a5740a971a88afb51b014f54d9eb1c95c',1,'tagBITMAPFILEHEADER']]],
+  ['bfreserved1',['bfReserved1',['../structtagBITMAPFILEHEADER.html#aee794445cde1ce265644c1718afc6b52',1,'tagBITMAPFILEHEADER']]],
+  ['bfreserved2',['bfReserved2',['../structtagBITMAPFILEHEADER.html#a017d814d24a7c65de297be31856501dc',1,'tagBITMAPFILEHEADER']]],
+  ['bfsize',['bfSize',['../structtagBITMAPFILEHEADER.html#ad6fa0d3a907934d597b2773bc45e4d43',1,'tagBITMAPFILEHEADER']]],
+  ['bftype',['bfType',['../structtagBITMAPFILEHEADER.html#a64ced0b35fb93012ce3d66b2f1dd5bb8',1,'tagBITMAPFILEHEADER']]],
+  ['bibitcount',['biBitCount',['../structtagBITMAPINFOHEADER.html#a713c58f9cf7d5f115938d189d59fadf5',1,'tagBITMAPINFOHEADER']]],
+  ['biclrimportant',['biClrImportant',['../structtagBITMAPINFOHEADER.html#a637282b108fc8ac3bdf41479f9931ccb',1,'tagBITMAPINFOHEADER']]],
+  ['biclrused',['biClrUsed',['../structtagBITMAPINFOHEADER.html#adbf6bd52839895672030a734d2ae752f',1,'tagBITMAPINFOHEADER']]],
+  ['bicompression',['biCompression',['../structtagBITMAPINFOHEADER.html#a6b50d93eae77d44af8907740e337583d',1,'tagBITMAPINFOHEADER']]],
+  ['biheight',['biHeight',['../structtagBITMAPINFOHEADER.html#aa18cf290b7f7a6d1cc8058feae85ab68',1,'tagBITMAPINFOHEADER']]],
+  ['bincount',['binCount',['../classedda_1_1DistributionModeler.html#a410bc6124b366c8c93082bccaf480a9d',1,'edda::DistributionModeler::binCount()'],['../classedda_1_1VecDistrModeler.html#aba70279cacbe3c50419282b45f8af973',1,'edda::VecDistrModeler::binCount()']]],
+  ['biplanes',['biPlanes',['../structtagBITMAPINFOHEADER.html#a261e0f0a578bcd4d53a4a221e6ebe2fa',1,'tagBITMAPINFOHEADER']]],
+  ['bisize',['biSize',['../structtagBITMAPINFOHEADER.html#a78b47f256953606cbf23cd665452a263',1,'tagBITMAPINFOHEADER']]],
+  ['bisizeimage',['biSizeImage',['../structtagBITMAPINFOHEADER.html#ac69dfda61a32d8ec53dd11ef165d198b',1,'tagBITMAPINFOHEADER']]],
+  ['bitmapimage',['bitmapImage',['../structBMPImage.html#abe81c46c20b28b04cb9fb970b1a3c205',1,'BMPImage']]],
+  ['biwidth',['biWidth',['../structtagBITMAPINFOHEADER.html#a4bbc605184be98c4da36f707f7695e0f',1,'tagBITMAPINFOHEADER']]],
+  ['bixpelspermeter',['biXPelsPerMeter',['../structtagBITMAPINFOHEADER.html#ae363738b6e92248a7be41f4e7ed55c54',1,'tagBITMAPINFOHEADER']]],
+  ['biypelspermeter',['biYPelsPerMeter',['../structtagBITMAPINFOHEADER.html#ac6226594275d045ff0d03849945d920f',1,'tagBITMAPINFOHEADER']]]
+];
