@@ -246,9 +246,13 @@ DistrArray * distrArrayReader_new(const string &fname, int size, int distrType)
 				new_gmm.models[m].m = distrData[3 * m];
 				new_gmm.models[m].v = distrData[3 * m + 1];
 				new_gmm.models[m].w = distrData[3 * m + 2];
+
+				//cout << distrData[3 * m] << ", " << distrData[3 * m + 1] << ", " << distrData[3 * m + 2] << ",";
+
 			}
 			dArray[i] = new_gmm;
 		}
+		cout << endl;
 
 	}
 	shared_ary<dist::Variant> pArray(new dist::Variant[size], size);

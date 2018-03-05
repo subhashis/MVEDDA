@@ -36,10 +36,22 @@ set(sources
 #    isabel_multi_res.cpp
 #    rmse_compute.cpp
 #    test_turbine_onePsg.cpp
-    isabel_store_grid_map.cpp
-    turbine_perProcessor_onePsg_recon.cpp
-    turbine_perProcessor_fullAnnulus_recon.cpp
-    turbine_perProcessor_fullAnnulus_conditionalQuery.cpp
+
+
+#    turbine_perProcessor_onePsg_recon.cpp
+#    turbine_perProcessor_fullAnnulus_recon.cpp
+#    turbine_perProcessor_fullAnnulus_conditionalQuery.cpp
+#    isabel_store_grid_map.cpp
+#    isabel_arbitrary_recon.cpp
+#    isabel_arbitrary_recon_backup.cpp
+#    test_read.cpp
+#	  combustion_store_grid_map.cpp
+    combustion_arbitrary_recon.cpp
+    new_isabel_store_grid_map.cpp
+    isabel_test_grid.cpp
+    new_combustion_store_grid_map.cpp
+    combustion_test_grid.cpp
+    
 
 )
 
